@@ -9,38 +9,92 @@
 
 - 📄 **A few words about me**: I'm an enthusiastic iOS developer who loves to learn and share new knowledge and technologies.
 <br /><br />
-- 💼 **Experience**: My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development.
+- 💼 **Experience**: My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch.
 <br /><br />
 - 📫 **How to reach me**: **[LinkeIn](https://www.linkedin.com/in/sharaev-vl/)** - the most convenient way.
 <br /><br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Companies and Projects:</h3>
 
-<p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-  </a> 
-  <a href="https://realm.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="30" height="30"/> 
-  </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> 
-  </a>
+- Startup
+<br /><br />
+- **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
+
+  - <p align="left">
+      <a href="https://github.com/sharaev-vl" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      </a>
+      <strong>
+        <a href="https://github.com/sharaev-vl">
+          Scanner Express
+        </a>
+      </strong>
+      <a>
+        is an application for scanning, editing and storing documents of various types.
+      </a>
+    </p>
+  
+  - <p align="left">
+      <a href="https://github.com/sharaev-vl" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      </a>
+      <strong>
+        <a href="https://github.com/sharaev-vl">
+          Nine Casino
+        </a>
+      </strong>
+      <a>
+        is a mobile version of a gambling site that is popular in Canada.
+      </a>
+    </p>
+  
+  - <p align="left">
+      <a href="https://github.com/sharaev-vl" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-Themly.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      </a>
+      <strong>
+        <a href="https://github.com/sharaev-vl">
+          Themly
+        </a>
+      </strong>
+      <a>
+        is an application that helps people decorate their phone with Widgets, Icons and Wallpapers.
+      </a>
+    </p>
+  
+  - <p align="left">
+      <a href="https://github.com/sharaev-vl/WakeApp-Notica" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-Notica.png"alt="https://github.com/sharaev-vl" height="35" width="35" />
+      </a>
+      <strong>
+        <a href="https://github.com/sharaev-vl/WakeApp-Notica">
+          Notica
+        </a>
+      </strong>
+      <a>
+        is an application for creating daily notes.
+      </a>
+    </p>
+  </p>
 </p>
+<br />
 
-<h3 align="left">Social media:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharaev-vl/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharaev-vl/" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/sharaev_vl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharaev_vl" height="35" width="35" />
-  </a>
+<h3 align="left">Social Media:</h3>
+  
+- <p align="left">
+    <a href="https://www.linkedin.com/in/sharaev-vl/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharaev-vl/" height="30" width="30" />
+    </a>
+    <a>
+      - for business inquiries.
+    </a>
+  </p>
+- <p align="left">
+    <a href="https://instagram.com/sharaev_vl" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharaev_vl" height="30" width="30" />
+    </a>
+    <a>
+      - if you're interested in my everyday life.
+    </a>
+  </p>
 </p>
