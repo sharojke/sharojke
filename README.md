@@ -21,11 +21,11 @@
 - **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
 
   - <p align="left">
-      <a href="https://github.com/sharaev-vl" target="blank">
+      <a href="https://github.com/sharaev-vl/WakeApp-ScannerExpress" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl">
+        <a href="https://github.com/sharaev-vl/WakeApp-ScannerExpress">
           Scanner Express
         </a>
       </strong>
@@ -35,11 +35,11 @@
     </p>
   
   - <p align="left">
-      <a href="https://github.com/sharaev-vl" target="blank">
+      <a href="https://github.com/sharaev-vl/WakeApp-NineCasino" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl">
+        <a href="https://github.com/sharaev-vl/WakeApp-NineCasino">
           Nine Casino
         </a>
       </strong>
@@ -49,11 +49,11 @@
     </p>
   
   - <p align="left">
-      <a href="https://github.com/sharaev-vl" target="blank">
+      <a href="https://github.com/sharaev-vl/WakeApp-Themly" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-Themly.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl">
+        <a href="https://github.com/sharaev-vl/WakeApp-Themly">
           Themly
         </a>
       </strong>
