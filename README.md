@@ -35,20 +35,6 @@
     </p>
   
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/WakeApp-NineCasino" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
-      </a>
-      <strong>
-        <a href="https://github.com/sharaev-vl/WakeApp-NineCasino">
-          Nine Casino
-        </a>
-      </strong>
-      <a>
-        is a mobile version of a gambling site that is popular in Canada.
-      </a>
-    </p>
-  
-  - <p align="left">
       <a href="https://github.com/sharaev-vl/WakeApp-Themly" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-Themly.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
       </a>
@@ -73,6 +59,20 @@
       </strong>
       <a>
         is an application for creating daily notes.
+      </a>
+    </p>
+    
+  - <p align="left">
+      <a href="https://github.com/sharaev-vl/WakeApp-NineCasino" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      </a>
+      <strong>
+        <a href="https://github.com/sharaev-vl/WakeApp-NineCasino">
+          Nine Casino
+        </a>
+      </strong>
+      <a>
+        is a mobile version of a gambling site that is popular in Canada.
       </a>
     </p>
   </p>
