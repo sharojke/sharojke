@@ -16,7 +16,7 @@
 
 <h3 align="left">Companies and Projects:</h3>
 
-- Startup
+- A **Startup** initiated by my colleague from our previous place of work to implement ideas for applications that could not be implemented in the previous company.
 <br /><br />
 - **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
 
