@@ -17,6 +17,19 @@
 <h3 align="left">Companies and Projects:</h3>
 
 - A **Startup** initiated by my colleague from our previous place of work to implement ideas for applications that could not be implemented in the previous company.
+  - <p align="left">
+      <a href="https://github.com/sharaev-vl/Startup1-WatchFaces1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      </a>
+      <strong>
+        <a href="https://github.com/sharaev-vl/Startup1-WatchFaces1">
+          Watch Faces #1
+        </a>
+      </strong>
+      <a>
+        is an application that helps people decorate their apple watches
+      </a>
+    </p>
 <br /><br />
 - **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
 
