@@ -7,11 +7,11 @@
 
 <h3 align="left">Short info:</h3>
 
-- 📄 **A few words about me**: I'm an enthusiastic iOS developer who loves to learn and share new knowledge and technologies.
+- 📄 **A few words about me**: I'm an enthusiastic iOS/watchOS developer who loves to learn and share new knowledge and technologies.
 <br /><br />
-- 💼 **Experience**: My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch.
+- 💼 **Experience**: My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch as a Lead Developer.
 <br /><br />
-- 📫 **How to reach me**: **[LinkeIn](https://www.linkedin.com/in/sharaev-vl/)** - the most convenient way.
+- 📫 **How to reach me**: **[LinkedIn](https://www.linkedin.com/in/sharaev-vl/)** is the most convenient way.
 <br /><br />
 
 <h3 align="left">Companies and Projects:</h3>
@@ -112,16 +112,26 @@
     <a href="https://www.linkedin.com/in/sharaev-vl/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharaev-vl/" height="30" width="30" />
     </a>
+    <strong>
+      <a href="https://www.linkedin.com/in/sharaev-vl/" target="blank">
+        LinkedIn
+      </a>
+    </strong>
     <a>
-      - for business inquiries.
+       is for business inquiries and socializing.
     </a>
   </p>
 - <p align="left">
     <a href="https://instagram.com/sharaev_vl" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharaev_vl" height="30" width="30" />
     </a>
+    <strong>
+      <a href="https://instagram.com/sharaev_vl" target="blank">
+        Instagram
+      </a>
+    </strong>
     <a>
-      - if you're interested in my everyday life.
+      if you're interested in my everyday life.
     </a>
   </p>
 </p>
