@@ -1,4 +1,4 @@
-<h1 align="center">In the repositories you can find descriptions of the projects I worked on, as well as various technologies that I was interested in mastering</h3>
+<h2 align="center">In the repositories you can find descriptions of the projects I worked on, as well as various technologies that I was interested in mastering</h2>
 
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/leading-trailing.gif">
 <br />
