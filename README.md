@@ -1,8 +1,6 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/welcome-banner-shiny-colorful-confetti-vector-paper-illustration-welcome-banner-colorful-confetti-100006906.jpg)](https://github.com/sharaev-vl)
+<h1 align="center">In the repositories you can find descriptions of the projects I worked on, as well as various technologies that I was interested in mastering</h3>
 
-<h1 align="center">Here are published descriptions of the projects I worked on, as well as various technologies that I was interested in mastering</h3>
-
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/leading-trailing.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/leading-trailing.gif">
 <br />
 
 <h3 align="left">Short info:</h3>
@@ -11,18 +9,18 @@
 <br /><br />
 - 💼 **Experience**: My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch as a Lead Developer.
 <br /><br />
-- 📫 **How to reach me**: **[LinkedIn](https://www.linkedin.com/in/sharaev-vl/)** is the most convenient way.
+- 📫 **How to reach me**: **[LinkedIn](https://www.linkedin.com/in/sharojke/)** is the most convenient way.
 <br /><br />
 
 <h3 align="left">Companies and Projects:</h3>
 
 - A **Startup** initiated by my colleague from our previous place of work to implement ideas for applications that could not be implemented in the previous company.
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/Startup1-WatchFaces2" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      <a href="https://github.com/sharojke/Startup1-WatchFaces2" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" alt="https://github.com/sharojke" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl/Startup1-WatchFaces2">
+        <a href="https://github.com/sharojke/Startup1-WatchFaces2">
           Watch Faces #2
         </a>
       </strong>
@@ -32,11 +30,11 @@
     </p>
   
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/Startup1-WatchFaces1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      <a href="https://github.com/sharojke/Startup1-WatchFaces1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" alt="https://github.com/sharojke" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl/Startup1-WatchFaces1">
+        <a href="https://github.com/sharojke/Startup1-WatchFaces1">
           Watch Faces #1
         </a>
       </strong>
@@ -48,11 +46,11 @@
 - **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
 
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/WakeApp-ScannerExpress" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      <a href="https://github.com/sharojke/WakeApp-ScannerExpress" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" alt="https://github.com/sharojke" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl/WakeApp-ScannerExpress">
+        <a href="https://github.com/sharojke/WakeApp-ScannerExpress">
           Scanner Express
         </a>
       </strong>
@@ -62,11 +60,11 @@
     </p>
   
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/WakeApp-Themly" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-Themly.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      <a href="https://github.com/sharojke/WakeApp-Themly" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/WakeApp/WakeApp-Themly.png" alt="https://github.com/sharojke" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl/WakeApp-Themly">
+        <a href="https://github.com/sharojke/WakeApp-Themly">
           Themly
         </a>
       </strong>
@@ -76,11 +74,11 @@
     </p>
   
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/WakeApp-Notica" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-Notica.png"alt="https://github.com/sharaev-vl" height="35" width="35" />
+      <a href="https://github.com/sharojke/WakeApp-Notica" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/WakeApp/WakeApp-Notica.png"alt="https://github.com/sharojke" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl/WakeApp-Notica">
+        <a href="https://github.com/sharojke/WakeApp-Notica">
           Notica
         </a>
       </strong>
@@ -90,11 +88,11 @@
     </p>
     
   - <p align="left">
-      <a href="https://github.com/sharaev-vl/WakeApp-NineCasino" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/sharaev-vl/sharaev-vl/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" alt="https://github.com/sharaev-vl" height="35" width="35" />
+      <a href="https://github.com/sharojke/WakeApp-NineCasino" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" alt="https://github.com/sharojke" height="35" width="35" />
       </a>
       <strong>
-        <a href="https://github.com/sharaev-vl/WakeApp-NineCasino">
+        <a href="https://github.com/sharojke/WakeApp-NineCasino">
           Nine Casino
         </a>
       </strong>
@@ -109,29 +107,29 @@
 <h3 align="left">Social Media:</h3>
   
 - <p align="left">
-    <a href="https://www.linkedin.com/in/sharaev-vl/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharaev-vl/" height="30" width="30" />
+    <a href="https://www.linkedin.com/in/sharojke/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharojke/" height="30" width="30" />
     </a>
     <strong>
-      <a href="https://www.linkedin.com/in/sharaev-vl/" target="blank">
+      <a href="https://www.linkedin.com/in/sharojke/" target="blank">
         LinkedIn
       </a>
     </strong>
     <a>
-       is for business inquiries and socializing.
+       business inquiries and socializing.
     </a>
   </p>
 - <p align="left">
-    <a href="https://instagram.com/sharaev_vl" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharaev_vl" height="30" width="30" />
+    <a href="https://instagram.com/sharojke" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharojke" height="30" width="30" />
     </a>
     <strong>
-      <a href="https://instagram.com/sharaev_vl" target="blank">
+      <a href="https://instagram.com/sharojke" target="blank">
         Instagram
       </a>
     </strong>
     <a>
-      if you're interested in my everyday life.
+      my everyday life.
     </a>
   </p>
 </p>
