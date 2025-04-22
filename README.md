@@ -29,7 +29,7 @@
       </a>
       <strong>
         <a href="https://apps.apple.com/app/watch-faces-gallery-creator/id1637666251">
-          Link to to the AppStore
+          Link to the AppStore.
         </a>
       </strong>
     </p>
@@ -48,7 +48,7 @@
       </a>
       <strong>
         <a href="https://apps.apple.com/app/watch-faces-for-iwatch-gallery/id1566000501">
-          Link to to the AppStore
+          Link to the AppStore.
         </a>
       </strong>
     </p>
