@@ -32,9 +32,8 @@
           Link to to the AppStore
         </a>
       </strong>
-    
     </p>
-  
+    
   - <p align="left">
       <a href="https://github.com/sharojke/Startup1-WatchFaces1" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" alt="https://github.com/sharojke" height="35" width="35" />
@@ -53,9 +52,9 @@
         </a>
       </strong>
     </p>
-<br /><br />
-- **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
+<br />
 
+- **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
   - <p align="left">
       <a href="https://github.com/sharojke/WakeApp-ScannerExpress" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" alt="https://github.com/sharojke" height="35" width="35" />
@@ -116,7 +115,7 @@
 <br />
 
 <h3 align="left">Social Media:</h3>
-  
+
 - <p align="left">
     <a href="https://www.linkedin.com/in/sharojke/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharojke/" height="30" width="30" />
