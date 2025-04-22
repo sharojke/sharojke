@@ -27,6 +27,12 @@
       <a>
         is an application that helps people decorate their apple watches.
       </a>
+      <strong>
+        <a href="https://apps.apple.com/app/watch-faces-gallery-creator/id1637666251">
+          Link to to the AppStore
+        </a>
+      </strong>
+    
     </p>
   
   - <p align="left">
@@ -41,6 +47,11 @@
       <a>
         is an application that helps people decorate their apple watches.
       </a>
+      <strong>
+        <a href="https://apps.apple.com/app/watch-faces-for-iwatch-gallery/id1566000501">
+          Link to to the AppStore
+        </a>
+      </strong>
     </p>
 <br /><br />
 - **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
