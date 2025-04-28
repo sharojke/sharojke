@@ -18,7 +18,7 @@
 
 <h3 align="left">Companies and Projects:</h3>
 
-- **Uniapps** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+- **[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
   - <p align="left">
       <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.PNG" height="35" />
       <a href="https://github.com/sharojke/Uniapps-WatchFacesClub"> Watch Faces Club</a>
