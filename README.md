@@ -11,7 +11,7 @@
 <br /><br />
 - 📚 Graduated from the [Essential Developer Academy](https://www.essentialdeveloper.com/) at the end of 2024 receiving [the Blue Belt 3d Stripe](https://academy.essentialdeveloper.com/achievements/6d655d32-f8ab-49dd-8252-422f48b476e7). Read my [review about the Academy](https://sharojke.medium.com/ios-lead-essentials-course-review-0e4224ea9b28).
 <br /><br />
-- 👨‍🏫 I have a Bachelor's degree in Software Engineering.
+- 🎓 I have a Bachelor's degree in Software Engineering.
 <br /><br />
 - 📫 [LinkedIn](https://www.linkedin.com/in/sharojke/) is the most convenient way to reach me.
 <br /><br />
