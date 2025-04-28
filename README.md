@@ -9,7 +9,7 @@
 <br /><br />
 - 💼 My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch as a Lead Developer.
 <br /><br />
-- 📚 Graduated from the [Essential Developer Academy](https://www.essentialdeveloper.com/) at the end of 2024 receiving [the Blue Belt 3d Stripe](https://academy.essentialdeveloper.com/achievements/6d655d32-f8ab-49dd-8252-422f48b476e7). Read my [review about the Academy](https://sharojke.medium.com/ios-lead-essentials-course-review-0e4224ea9b28).
+- 📚 I graduated from the [Essential Developer Academy](https://www.essentialdeveloper.com/) at the end of 2024 receiving [the Blue Belt 3d Stripe](https://academy.essentialdeveloper.com/achievements/6d655d32-f8ab-49dd-8252-422f48b476e7). Read my [review about the Academy](https://sharojke.medium.com/ios-lead-essentials-course-review-0e4224ea9b28).
 <br /><br />
 - 🎓 I have a Bachelor's degree in Software Engineering.
 <br /><br />
