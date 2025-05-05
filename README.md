@@ -7,7 +7,7 @@
 
 - 📄 I'm an enthusiastic iOS/watchOS developer who loves to learn and share new knowledge and technologies.
 <br /><br />
-- 💼 My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch as a Lead Developer.
+- 🚀 My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch as a Lead Developer.
 <br /><br />
 - 📚 I graduated from the [Essential Developer Academy](https://www.essentialdeveloper.com/) at the end of 2024 receiving [the Blue Belt 3d Stripe](https://academy.essentialdeveloper.com/achievements/6d655d32-f8ab-49dd-8252-422f48b476e7). Read my [review about the Academy](https://sharojke.medium.com/ios-lead-essentials-course-review-0e4224ea9b28).
 <br /><br />
@@ -18,47 +18,47 @@
 
 <h3 align="left">Companies and Projects:</h3>
 
-- **[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+- **Stealth Startup** is a young product company that appeared in 2022. Some information about the company and its products is under NDA.
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.PNG" height="35" />
-      <a href="https://github.com/sharojke/Uniapps-WatchFacesClub"> Watch Faces Club</a>
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+      <a href="https://github.com/sharojke/StealthStartup1-WatchFacesCommunity"> Watch Faces Community</a>
       <a>is an application that helps people decorate their apple watches, create new ones and share with the community.</a>
     </p>
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/SoundAmplifier.png" height="35" />
-      <a href="https://github.com/sharojke/Uniapps-SoundAmplifier"> Sound Amplifier</a>
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/StealthStartup1/StealthStartup1-SoundAmplifier.png" height="35" width="35"/>
+      <a href="https://github.com/sharojke/StealthStartup1-SoundAmplifier"> Sound Amplifier</a>
       <a>is an application that provides a quick hearing test and offers personalized sound enhancement to help you hear more clearly and comfortably.</a>
     </p>
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" height="35" />
-      <a href="https://github.com/sharojke/Startup1-WatchFaces2"> Watch Faces #2</a>
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+      <a href="https://github.com/sharojke/StealthStartup1-WatchFacesForAppleWatch"> Watch Faces For Apple Watch</a>
       <a>is an application that helps people decorate their apple watches.</a>
     </p>
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" height="35" />
-      <a href="https://github.com/sharojke/Startup1-WatchFaces1"> Watch Faces #1</a>
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+      <a href="https://github.com/sharojke/StealthStartup1-WatchFacesGallery"> Watch Faces Gallery</a>
       <a>is an application that helps people decorate their apple watches.</a>
     </p>
 <br />
 
 - **[WakeApp](https://www.wakeapp.com/)** is a technological advanced mobile marketing agency, leader in the promotion of mobile applications on the international market.
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" height="35" />
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-ScannerExpress.png" height="35" width="35"/>
       <a href="https://github.com/sharojke/WakeApp-ScannerExpress"> Scanner Express</a>
       <a>is an application for scanning, editing and storing documents of various types.</a>
     </p>
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-Themly.png" height="35" />
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-Themly.png" height="35" width="35"/>
       <a href="https://github.com/sharojke/WakeApp-Themly"> Themly</a>
       <a>is an application that helps people decorate their phone with Widgets, Icons and Wallpapers.</a>
     </p>
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-Notica.png" height="35" />
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-Notica.png" height="35" width="35"/>
       <a href="https://github.com/sharojke/WakeApp-Notica"> Notica</a>
       <a>is an application for creating daily notes.</a>
     </p>
   - <p align="left">
-      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" height="35" />
+      <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/WakeApp/WakeApp-NineCasino.png" height="35" width="35"/>
       <a href="https://github.com/sharojke/WakeApp-NineCasino"> Nine Casino</a>
       <a>is a mobile version of a gambling site that is popular in Canada.</a>
     </p>
