@@ -1,22 +1,13 @@
-<h2 align="center">In the repositories you can find descriptions of the projects I worked on, as well as various technologies that I was interested in mastering</h2>
+<h3 align="left">About me:</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/sharojke/sharojke/main/Resources/leading-trailing.gif">
-<br /><br />
+- 5+ years of iOS/watchOS experience working in product companies (3–25 people), including 3+ years as a lead developer.
+- Graduated from the [Essential Developer Academy](https://www.essentialdeveloper.com/) at the end of 2024 receiving [the Blue Belt 3d Stripe](https://academy.essentialdeveloper.com/achievements/6d655d32-f8ab-49dd-8252-422f48b476e7). Read my [review about the Academy](https://sharojke.medium.com/ios-lead-essentials-course-review-0e4224ea9b28).
+- Bachelor's degree in Software Engineering.
+- English language level is [C1 according to EF SET](https://cert.efset.org/81MmfU).
+- [LinkedIn](https://www.linkedin.com/in/sharojke/) is the most convenient way to reach me.
 
-<h3 align="left">Short info:</h3>
 
-- 📄 I'm an enthusiastic iOS/watchOS developer who loves to learn and share new knowledge and technologies.
-<br /><br />
-- 🚀 My commercial experience began at the very beginning of 2021. Two years before I became interested in iOS development. I have experience working in small product companies and startups created from scratch as a Lead Developer.
-<br /><br />
-- 📚 I graduated from the [Essential Developer Academy](https://www.essentialdeveloper.com/) at the end of 2024 receiving [the Blue Belt 3d Stripe](https://academy.essentialdeveloper.com/achievements/6d655d32-f8ab-49dd-8252-422f48b476e7). Read my [review about the Academy](https://sharojke.medium.com/ios-lead-essentials-course-review-0e4224ea9b28).
-<br /><br />
-- 🎓 I have a Bachelor's degree in Software Engineering.
-<br /><br />
-- 📫 [LinkedIn](https://www.linkedin.com/in/sharojke/) is the most convenient way to reach me.
-<br /><br />
-
-<h3 align="left">Companies and Projects:</h3>
+<h3 align="left">Companies and Projects I've worked on:</h3>
 
 - **Stealth Startup** is a young product company that appeared in 2022. Some information about the company and its products is under NDA.
   - <p align="left">
